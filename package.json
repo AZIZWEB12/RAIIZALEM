@@ -1,0 +1,21 @@
+{
+  "name": "ra-yii-zalem-vitrine",
+  "version": "1.0.0",
+  "description": "Site vitrine de RA YII ZALEM - Cours à Domicile",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "soutien-scolaire",
+    "cours-a-domicile",
+    "burkina-faso"
+  ],
+  "author": "RA YII ZALEM",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
